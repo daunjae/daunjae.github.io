@@ -1,0 +1,28 @@
+body {
+    font-family: 나눔바른고딕,돋움;
+    background-color: khaki;
+}
+h1,h2 {
+    font-weight: normal;
+}
+h1 {
+    font-family: 바탕;
+    color: gray;
+    border-bottom: 1px solid black;
+
+p {
+    color: maroon;
+}
+h2.site {
+    color: rgb(34, 116, 34);
+    background-color: yellow;
+}
+a:link {
+    color: green;
+}
+a:visited {
+    color:red;
+}
+a:hover {
+    color: yellow;
+}
